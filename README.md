@@ -5,7 +5,7 @@ Drop-in telemetry SDK for Express, Fastify, and NestJS apps. Reports architectur
 ## Install
 
 ```
-npm install github:akshaymishra-a11y/eip-sdk
+npm install archonix-sdk
 ```
 
 ## Quick start: `npx eip init`
